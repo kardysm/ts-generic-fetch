@@ -1,10 +1,28 @@
 {
   "name": "ts-generic-fetch",
-  "version": "0.0.2",
-  "author": "michal@kardys.dev",
+  "version": "0.0.3",
+  "author": "Michał Kardyś <michal@kardys.dev> (https://www.kardys.dev)",
   "main": "index.ts",
   "license": "MIT",
+  "description": "Fetch extended with generic type",
   "peerDependencies": {
     "typescript": "*"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kardysm/ts-generic-fetch.git"
+  },
+  "keywords": [
+    "typescript",
+    "fetch",
+    "generic",
+    "api"
+  ],
+  "bugs": {
+    "url": "https://github.com/kardysm/ts-generic-fetch/issues"
+  },
+  "homepage": "https://github.com/kardysm/ts-generic-fetch#readme"
 }
