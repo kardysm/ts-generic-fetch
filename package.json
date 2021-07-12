@@ -1,6 +1,6 @@
 {
   "name": "ts-generic-fetch",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "michal@kardys.dev",
   "main": "index.ts",
   "license": "MIT",
