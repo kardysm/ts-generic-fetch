@@ -17,7 +17,7 @@ In an entrypoint of your app:
 import 'ts-generic-fetch'
 ```
 
-Wherever you need fetch in your files:
+Wherever you need built-in `fetch` in your files:
 
 ```
   const jsonResult = fetch<{returnTypeProp: 'someValue'}>('https://use-fetch-as-usual')
@@ -27,7 +27,7 @@ Wherever you need fetch in your files:
 * * *
 ## The code 
 
-Whole package is just shart snippet which enhances built-in typings. 
+Whole package is just short snippet which enhances built-in typings. 
 
 You could either: 
 - use the snippet if you don't want external deps or 
